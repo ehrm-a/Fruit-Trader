@@ -1,0 +1,46 @@
+{
+  "prefix": ".",
+  "version": "1.0.0",
+  "mode": "subtle",
+  "fruitList": {
+    "common": ["rocket", "spin", "chop", "spring", "bomb", "smoke", "spike"],
+    "uncommon": ["flame", "falcon", "dark", "sand", "ice", "diamond"],
+    "rare": ["rubber", "ghost", "light", "barrier", "magma"],
+    "legendary": [
+      "quake",
+      "love",
+      "spider",
+      "pain",
+      "phoenix",
+      "sound",
+      "rumble",
+      "blizzard",
+      "portal",
+      "buddha"
+    ],
+    "mythical": [
+      "gravity",
+      "shadow",
+      "control",
+      "venom",
+      "spirit",
+      "mammoth",
+      "dough",
+      "t-rex",
+      "leopard",
+      "dragon",
+      "kitsune"
+    ]
+  },
+  "gamepassList": [
+    "legendary-scrolls",
+    "fast-boats",
+    "2x-boss-drops",
+    "2x-money",
+    "2x-mastery",
+    "mythical-scrolls",
+    "+1-fruit-storage",
+    "dark-blade",
+    "fruit-notifier"
+  ]
+}
