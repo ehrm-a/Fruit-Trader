@@ -18,7 +18,7 @@
 >
 > After confirming and downloading everything, grab your discord token and place it in the `.env` file.
 >
-> Then, simply move inside the source folder and type `node index.js`
+> Then, simply move inside the source folder with a command prompt and type `node index.js`
 
 # How to Use:
 
