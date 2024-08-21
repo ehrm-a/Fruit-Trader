@@ -1,4 +1,4 @@
-<img src="./images/icon.svg" width="100px">
+<img src="https://raw.githubusercontent.com/ehrm-a/Fruit-Trader/330d2da70052ba4691e17f738f5b0c83743e9a00/source/images/icon.svg" width="100px">
 
 # Fruit-Trader
 
